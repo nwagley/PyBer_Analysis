@@ -25,6 +25,8 @@ per rider and 16.57 being the average fare per driver.
 We see that even though there is a more total rides and drivers in the urban area the fare prices for the driver is sell than what it 
 is in the rural, this can be explain as there is less competition and more chances of getting a ride. 
 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/79885849/113516829-718b3880-954a-11eb-851a-a79c98b2591d.png)
+
 ### Summary 
 Looking at the above final graph the recommendations I would make to the CEO are 1) The comapny has to promote its services in the rural 
 areas by using the fare advantages as the drives make more money vs Urban cities to raise profit. 2) The customer based needs to enticed 
