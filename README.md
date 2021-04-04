@@ -8,6 +8,8 @@ will then have to summarize the data to see the differnces.
 ### Results
 Looking at data found we can see the following information 
 
+<img width="418" alt="pyber" src="https://user-images.githubusercontent.com/79885849/113516562-e8273680-9548-11eb-811f-4c9ec0732363.PNG">
+
 #### Rural  
 There a total of 78 rural drivers in the system. The amoumt of total fares is approx $4300 with 34.62 being the average fare
 per rider and 55.48 being the average fare per driver. 
